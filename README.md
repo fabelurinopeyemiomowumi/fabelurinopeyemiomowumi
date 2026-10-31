@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**fabelurinopeyemiomowumi/fabelurinopeyemiomowumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Opeyemi 👋
 
-Here are some ideas to get you started:
+I'm a UI/UX Designer and Graphic Designer focused on creating clear, user-friendly digital experiences and compelling visual designs. I'm also developing my product design and frontend development skills through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+- UI/UX Design
+- Graphic Design
+- Flyers, Posters, and Social Media Graphics
+
+### Currently Learning
+- Product Design & Engineering
+- Frontend Development Fundamentals
+- Building practical projects with AI-powered tools
+
+### Tools I Use
+- Figma
+- Adobe Illustrator
+- Canva
+- GitHub
+
+### Projects
+I'm building practical projects to strengthen my design, problem-solving, and product development skills.
+
+### Let's Connect
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/opeyemi-omowumi-fabelurin-651743230)
