@@ -24,7 +24,7 @@ I'm a UI/UX Designer and Graphic Designer focused on creating clear, user-friend
 As part of my learning journey in Product Design & Engineering, I worked on hands-on projects to explore AI-powered development tools and learn how to use GitHub to manage and showcase my work.
 
 - **[Expense Tracker App](https://expense-tracker-app-chi-inky.vercel.app/)** — A course project I built while learning to use AI-powered development tools and deploy an application.
-- **Calorie Tracker** — A practical learning project completed while exploring app development workflows.
+- **[Calorie Tracker](https://calorie-tracker-wine-nu.vercel.app/)** — A practical learning project I explored while learning app development workflows.
 
 These projects are part of my ongoing learning journey as I continue developing my design and technical skills.
 ### Let's Connect
