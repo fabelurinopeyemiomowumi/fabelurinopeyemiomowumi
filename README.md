@@ -19,8 +19,13 @@ I'm a UI/UX Designer and Graphic Designer focused on creating clear, user-friend
 - Canva
 - GitHub
 
-### Projects
-I'm building practical projects to strengthen my design, problem-solving, and product development skills.
+### Learning Projects
 
+As part of my learning journey in Product Design & Engineering, I worked on hands-on projects to explore AI-powered development tools and learn how to use GitHub to manage and showcase my work.
+
+- **Expense Tracker App** — A course project that introduced me to building a simple application using AI-powered development tools.
+- **Calorie Tracker** — A practical learning project completed while exploring app development workflows.
+
+These projects are part of my ongoing learning journey as I continue developing my design and technical skills.
 ### Let's Connect
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/opeyemi-omowumi-fabelurin-651743230)
